@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cytaty z Bash.org.pl</string>
+    <string name="quote_number"> </string>
+    <string name="quote_number_desc">Numer cytatu: </string>
+    <string name="quote_link"> </string>
+    <string name="quote_link_desc">Link do cytatu: </string>
+    <string name="quote_next_desc">Losuj następny cytat</string>
+    <string name="quote_text"> </string>
+</resources>
